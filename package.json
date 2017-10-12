@@ -1,0 +1,26 @@
+{
+  "name": "kotlinweb",
+  "version": "1.0.1",
+  "description": "Kotlin learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alaraasa/kotlinWeb.git"
+  },
+  "keywords": [
+    "kotlin",
+    "vertx"
+  ],
+  "author": "Alar Aasa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alaraasa/kotlinWeb/issues"
+  },
+  "homepage": "https://github.com/alaraasa/kotlinWeb#readme",
+  "dependencies": {
+    "vertx3-full": "3.4.2"
+  }
+}
